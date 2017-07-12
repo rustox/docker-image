@@ -1,1 +1,1 @@
-docker build --tag rust/bangalore:1.0 .
+docker build --tag rustox/rustlang:1.0 .
